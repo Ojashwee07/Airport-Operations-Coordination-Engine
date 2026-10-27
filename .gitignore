@@ -4,3 +4,15 @@ __pycache__/
 .env
 .DS_Store
 .pytest_cache/
+
+# Local database and sensitive files
+*.db
+*.sqlite
+*.sqlite3
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+node_modules/
+.DS_Store
