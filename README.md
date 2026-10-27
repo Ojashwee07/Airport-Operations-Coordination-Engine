@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Airport Operations Coordination Engine
 
 ## 1. Project Overview
@@ -354,3 +355,7 @@ Milestone 1 establishes the initial foundation of the Airport Operations Coordin
 The implementation provides a basis for future development while allowing the current workflow and its outputs to be tested and reviewed.
 
 **Final Milestone 1 completion should be confirmed against the project requirements agreed upon with the mentor.**
+=======
+# Airport-Operations-Coordination-Engine
+AI-powered airport operations coordination and decision-support platform using multi-agent workflows.
+>>>>>>> 193e89380471e6c1aabf0c5c6bf04508b38d0079
