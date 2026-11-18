@@ -5,3 +5,10 @@ models/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+# AOCE additions
+.pytest_cache/
+*.egg-info/
+coverage/
+frontend/.env.local
+frontend/node_modules/
+*.sqlite3

@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "airport-operations-engine"
+version = "0.1.0"
+description = "Dependency-light airport operations coordination MVP"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+airport-engine = "airport_engine.server:main"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
