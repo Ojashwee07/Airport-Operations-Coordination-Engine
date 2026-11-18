@@ -10,3 +10,5 @@ __pycache__/
 *.egg-info/
 coverage/
 frontend/.env.local
+frontend/node_modules/
+*.sqlite3
