@@ -1,18 +1,12 @@
-node_modules/
-dist/
-.env
+venv/
 .venv/
+data/
+models/
 __pycache__/
-*.py[cod]
+*.pyc
+.ipynb_checkpoints/
+# AOCE additions
 .pytest_cache/
-*.db
-*.sqlite3
+*.egg-info/
 coverage/
 frontend/.env.local
-
-
-.venv/
-__pycache__/
-.pytest_cache/
-*.pyc
-*.egg-info/
